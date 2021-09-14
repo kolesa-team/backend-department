@@ -7,17 +7,17 @@
 В данном разделе описаны технические и иные требования предъявляемые к кандидатам на изменение грейда или кандидатам на вакансию.
 
 ### Backend Developers
-* Intern
-* Juniors
-  * Junior 1
-  * Junior 2
-  * Junior 3
-* Middles
-  * Middle 1
-  * Middle 2
-  * Middle 3
-* Seniors
-  * Senior 1
-  * Senior 2
-  * Senior 3
+* [Interns](https://github.com/kolesa-team/backend-department/blob/main/grades.md#interns)
+* [Juniors](https://github.com/kolesa-team/backend-department/blob/main/grades.md#Juniors)
+  * [Junior 1](https://github.com/kolesa-team/backend-department/blob/main/grades.md#junior-1)
+  * [Junior 2](https://github.com/kolesa-team/backend-department/blob/main/grades.md#junior-2)
+  * [Junior 3](https://github.com/kolesa-team/backend-department/blob/main/grades.md#junior-3)
+* [Middles](https://github.com/kolesa-team/backend-department/blob/main/grades.md#Middles)
+  * [Middle 1](https://github.com/kolesa-team/backend-department/blob/main/grades.md#middle-1)
+  * [Middle 2](https://github.com/kolesa-team/backend-department/blob/main/grades.md#middle-2)
+  * [Middle 3](https://github.com/kolesa-team/backend-department/blob/main/grades.md#middle-3)
+* [Seniors](https://github.com/kolesa-team/backend-department/blob/main/grades.md#Seniors)
+  * [Senior 1](https://github.com/kolesa-team/backend-department/blob/main/grades.md#senior-1)
+  * [Senior 2](https://github.com/kolesa-team/backend-department/blob/main/grades.md#senior-2)
+  * [Senior 3](https://github.com/kolesa-team/backend-department/blob/main/grades.md#senior-3)
 
