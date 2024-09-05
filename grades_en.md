@@ -5,7 +5,7 @@ Intern is a first step on the developer roadmap at Kolesa Group.
 
 ### Hard Skills
 - Programming language (any)
-- Knowledge of what PHP (1C, Go, Java, Python etc. depends on your team) is and readiness to learn it
+- Knowledge of what PHP (Go, Python, Java, 1C  etc. depends on your team) is and readiness to learn it
 
 ### Responsibilities
 - Have a mad desire to become a back-end developer
@@ -23,7 +23,7 @@ Junior is the next step on the developer roadmap. The developer becomes a full m
 ## Junior 1
 
 ### Hard Skills
-- PHP (1C, Go, Java, Python etc. depends on your team) programming language
+- PHP (Go, Python, Java, 1C etc. depends on your team) programming language
   - Basic syntax
   - Data types
 - Basic layout skills (CSS, HTML)
