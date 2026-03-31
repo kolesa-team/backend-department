@@ -149,7 +149,7 @@ Junior is the next step on the developer career path. A developer becomes a full
   - Understanding metrics and alerts (Graylog, Grafana, Zabbix)
   - Ability to determine system state (dashboards, logs, alerts)
 
-## Soft Skills
+### Soft Skills
 - Understand how tasks affect business goals
 - Ability to analyze causes of their mistakes and prevent repetition
 - Ability to prioritize tasks and subtasks
@@ -237,7 +237,7 @@ Typically, a Middle-level specialist influences the entire product with their ex
 - Queues
   - Advanced usage (Dead Letter Queue (DLQ), retry strategies, batching, routing, push vs pull queue approaches)
 
-## Soft Skills
+### Soft Skills
 - Negotiates mutually beneficial solutions in conflict situations and finds compromises
 - Actively shares knowledge inside and outside the team (meetups, conferences, articles, demo days, etc.)
 - Acts as a mentor (onboarding, detailed code review comments, etc.)
