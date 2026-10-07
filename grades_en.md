@@ -245,7 +245,6 @@ Typically, a Middle-level specialist influences the entire product with their ex
 ### Responsibilities
 - Not only designs features but fully owns the technical implementation of large tasks (epics), including decomposition, planning, and coordination with other developers
 - Identifies bottlenecks not only in code but also in development processes and proposes improvements to increase team efficiency
-- Tracks technical metrics when designing new features and monitors them after release, proposing solutions if problems arise
 - Efficiently collaborates with related teams (admins, analysts, QA) without involving the team lead
 
 
